@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo: #1e1e1e;
-    --verde: #6fff57;
+    --verde: #57dbff;
     --branco: #ffffff;
     --botao-ativo: #3a375e;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -56,7 +56,14 @@ body {
   }
 
   .botao:first-child{
-    border-radius: 40px 40px 0 0;
+    border-radThere is already an account associated with your GitHub email address. Please login with your email and password then link your GitHub account. Login with Email
+    ￼
+    Continue with GitHub
+    ￼
+    Continue with GitLab
+    ￼
+    Continue with Bitbucket
+    ius: 40px 40px 0 0;
   }
 
   .botoes{
